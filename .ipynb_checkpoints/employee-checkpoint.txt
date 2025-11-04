@@ -1,0 +1,10 @@
+E001,Ayesha Khan,IT,HR Manager,ayesha.khan@company.com,0300-1234567
+E002,Bilal Ahmed,IT,Software Engineer,mustafamurtaza@gmia.com,0301-2345678
+E003,Sana Malik,Marketing,Content Strategist,sana.malik@company.com,0302-3456789
+E004,Usman Raza,Finance,Accountant,usman.raza@company.com,0303-4567890
+E005,Zara Sheikh,Sales,Sales Executive,zara.sheikh@company.com,0304-5678901
+E006,Hamza Tariq,IT,Network Admin,hamza.tariq@company.com,0305-6789012
+E007,Fatima Noor,HR,Recruiter,fatima.noor@company.com,0306-7890123
+E008,Ali Zafar,Operations,Operations Lead,ali.zafar@company.com,0307-8901234
+E009,Rabia Hussain,Legal,Legal Advisor,rabia.hussain@company.com,0308-9012345
+E010,Imran Siddiqui,Admin,Office Manager,imran.siddiqui@company.com,0309-0123456
